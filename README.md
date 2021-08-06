@@ -19,12 +19,6 @@ Template Revision: 7.0 DE (asciidoc-based), January 2017
 architecture template, <http://www.arc42.de>. Created by Dr. Peter
 Hruschka & Dr. Gernot Starke.
 
-::: {.note}
-Diese Version des Templates enthält Hilfen und Erläuterungen. Sie dient
-der Einarbeitung in arc42 sowie dem Verständnis der Konzepte. Für die
-Dokumentation eigener System verwenden Sie besser die *plain* Version.
-:::
-
 #### Links
 
 1. [Einführung und Ziele](/docs/architektur/01.%20Einf%C3%BChrung%20und%20Ziele.md)
