@@ -5,7 +5,7 @@
 ## Dokumentation 
 
 ### Architektur
-1. [Einführung und Ziele](https://github.com/placom/docs/blob/main/docs/architektur/01.%20Einf%C3%BChrung%20und%20Ziele.md)
+1. [Einführung und Ziele](/docs/architektur/01.%20Einf%C3%BChrung%20und%20Ziele.md)
 2. [Randbedingungen](https://github.com/placom/docs/blob/main/docs/architektur/02.%20Randbedingungen.md)
 3. [Kontextabgrenzung](https://github.com/placom/docs/blob/main/docs/architektur/03.%20Kontextabgrenzung.md)
 4. [Lösungsstrategie](https://github.com/placom/docs/blob/main/docs/architektur/04.%20L%C3%B6sungsstrategie.md)
