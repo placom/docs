@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-20T11:12:52.329Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="WLPDYXOnTvBg8cp0jiy9" version="14.9.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-08-20T12:14:53.527Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="IhqKvQmIGWLbz_k5uGLS" version="14.9.8" type="github" pages="9">
   <diagram name="Stakeholder" id="c4utoi0wD5c7_0CvTzlC">
     <mxGraphModel dx="1408" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Usecases" id="f_0wRHZTD2FVntdFyv_C">
-    <mxGraphModel dx="1408" dy="1879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2347" dy="2352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yx86VqtCXAZTdYJgrT59-0" />
         <mxCell id="yx86VqtCXAZTdYJgrT59-1" parent="yx86VqtCXAZTdYJgrT59-0" />
@@ -63,7 +63,7 @@
         <mxCell id="yx86VqtCXAZTdYJgrT59-13" value="Produktsuche" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yx86VqtCXAZTdYJgrT59-1" vertex="1">
           <mxGeometry x="160" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yx86VqtCXAZTdYJgrT59-14" value="Warenkorb pflegen" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="yx86VqtCXAZTdYJgrT59-1" vertex="1">
+        <mxCell id="yx86VqtCXAZTdYJgrT59-14" value="Vergleichsliste" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yx86VqtCXAZTdYJgrT59-1" vertex="1">
           <mxGeometry x="260" y="-40" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yx86VqtCXAZTdYJgrT59-15" value="Günstigster Preis" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=0;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="yx86VqtCXAZTdYJgrT59-1" vertex="1">
@@ -108,7 +108,7 @@
         <mxCell id="yx86VqtCXAZTdYJgrT59-34" value="Alerting" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=0;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yx86VqtCXAZTdYJgrT59-1" vertex="1">
           <mxGeometry x="190" y="100" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yx86VqtCXAZTdYJgrT59-35" value="Alerting&lt;br&gt;Notification (price to low)" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=0;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="yx86VqtCXAZTdYJgrT59-1" vertex="1">
+        <mxCell id="yx86VqtCXAZTdYJgrT59-35" value="Alerting&lt;br&gt;Notification (price to low)" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=0;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" parent="yx86VqtCXAZTdYJgrT59-1" vertex="1">
           <mxGeometry x="1300" y="130" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yx86VqtCXAZTdYJgrT59-39" value="Dashboard" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=0;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="yx86VqtCXAZTdYJgrT59-1" vertex="1">
