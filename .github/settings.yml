@@ -61,35 +61,35 @@ repository:
 labels:
   - name: alerting
     color: '#5319E7'
-    description: https://github.com/placom/docs/blob/main/docs/usecases/alerting.md
+    description: 'https://github.com/placom/docs/blob/main/docs/usecases/alerting.md'
 
   - name: anwender-authentifizieren-authorisieren
     color: '#5319E7'
-    description: https://github.com/placom/docs/blob/main/docs/usecases/anwender-authentifizieren-authorisieren.md
+    description: 'https://github.com/placom/docs/blob/main/docs/usecases/anwender-authentifizieren-authorisieren.md'
     
   - name: checkout
     color:'#5319E7'
-    description: https://github.com/placom/docs/blob/main/docs/usecases/checkout.md
+    description: 'https://github.com/placom/docs/blob/main/docs/usecases/checkout.md'
 
   - name: preisvergleich
     color: '#5319E7'
-    description: https://github.com/placom/docs/blob/main/docs/usecases/preisvergleich.md
+    description: 'https://github.com/placom/docs/blob/main/docs/usecases/preisvergleich.md'
 
   - name: produktstatistik
     color: '#5319E7'
-    description: https://github.com/placom/docs/blob/main/docs/usecases/produktstatistik.md
+    description: 'https://github.com/placom/docs/blob/main/docs/usecases/produktstatistik.md'
 
   - name: produktsuche
     color: '#5319E7'
-    description: https://github.com/placom/docs/blob/main/docs/usecases/produktsuche.md
+    description: 'https://github.com/placom/docs/blob/main/docs/usecases/produktsuche.md'
 
   - name: vergleichsliste
     color: '#5319E7'
-    description: https://github.com/placom/docs/blob/main/docs/usecases/vergleichsliste.md
+    description: 'https://github.com/placom/docs/blob/main/docs/usecases/vergleichsliste.md'
 
   - name: verkaeufer-bewerten
     color: '#5319E7'
-    description: https://github.com/placom/docs/blob/main/docs/usecases/verkaeufer-bewerten.md
+    description: 'https://github.com/placom/docs/blob/main/docs/usecases/verkaeufer-bewerten.md'
 
   - name: epic
     color: '#5319E7'
