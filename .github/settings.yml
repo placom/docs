@@ -68,7 +68,7 @@ labels:
     description: 'https://github.com/placom/docs/blob/main/docs/usecases/anwender-authentifizieren-authorisieren.md'
     
   - name: checkout
-    color:'#5319E7'
+    color: '#5319E7'
     description: 'https://github.com/placom/docs/blob/main/docs/usecases/checkout.md'
 
   - name: preisvergleich
