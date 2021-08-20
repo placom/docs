@@ -1,7 +1,7 @@
-# Usecase Warenkorb kaufen
+# Usecase Checkout
   
 ## Kurzbeschreibung
-Nachdem ich als Anwender ein oder mehrere Produkte gesucht, diese dem Warenkorb hinzugefügt und mich mittels eines Vergleichsalgorithmus' für eine Bestell-, Anbieter, -Lieferoption entschieden habe soll der Kaufprozess eingeleitet werden.
+Nachdem ich als Anwender ein oder mehrere Produkte gesucht, diese der Liste hinzugefügt und mich mittels eines Vergleichsalgorithmus' für eine Bestell-, Anbieter, -Lieferoption entschieden habe soll der Kaufprozess eingeleitet werden.
 
 Hierfür sollen perspektivisch mehrere Optionen zur Verfügung stehen:
 
@@ -29,9 +29,9 @@ Als letzte Option soll die Führung eigener Produkte (begonnen mit vereinzelten 
 - Startseite geladen
 - Käufer ist sich seines Suchziels bewusst
 - Produktsuche durchgeführt
-- Ein oder mehrere Produkte dem Warenkorb hinzugefügt
+- Ein oder mehrere Produkte der Liste hinzufügen
 - Preisverlgeich durchgeführt
-- Für Kaufoption entschieden.
+- Für Checkoutoption entschieden.
 
 ## Fachlicher Auslöser
 - Preisvergleich wurde erfolgreich durchgeführt und der Anwender möchte die gewählte Kaufoption kaufen.
