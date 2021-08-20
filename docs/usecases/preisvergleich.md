@@ -2,7 +2,7 @@
 
 ## Kurzbeschreibung
 
-Als Endanwender sollen mir Produkte (1-n) aus meinem Warenkorb preislich verglichen und aufgelistet werden. Die Produkte sollen nach verschiedenen Kriterien gelistet und sortiert werden können.
+Als Endanwender sollen mir Produkte (1-n) aus meiner Vergleichliste preislich verglichen und aufgelistet werden. Die Produkte sollen nach verschiedenen Kriterien gelistet und sortiert werden können.
 Sortier und Filterung erfolgt nach folgenden Kriterien:
 
 - lokalität der Shops/Produkte
@@ -19,11 +19,11 @@ Sortier und Filterung erfolgt nach folgenden Kriterien:
 
 ## Vorbedingungen
 
-Use Case **Produktsuche** muss ausgeführt worden sein und mindestens 1 Artikel in den Warenkorb gelegt worden sein.
+Use Case **Produktsuche** muss ausgeführt worden sein und mindestens 1 Artikel in den Vergleichsliste gelegt worden sein.
 
 ## Fachlicher Auslöser
 
-Der Endanwender des Systems möchte einen Vergleich seiner Artikel im Warenkorb durchführen, um den Warenkorb anhand seiner preferierten Kriterien zu filtern und in dem dafür passenden shop/shops zu bestellen.
+Der Endanwender des Systems möchte einen Vergleich seiner Artikel seiner Liste  durchführen, um seine Checkoutoptionen anhand seiner preferierten Kriterien zu filtern und in dem dafür passenden shop/shops zu bestellen.
 
 ## Ergebnis
 
