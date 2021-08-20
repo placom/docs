@@ -9,7 +9,7 @@ Eine Authentifizierung über vielgenutzte Identity Provider ist zu überprüfen.
 Durch authentifizierung der Nutzer soll eine Nutzung historischer Daten ermöglicht werden. Weiterhin kann der Warenkorb persistiert werden und somit ein durchgängiges Nutzererlebnis geschaffen werden.
 
 ### Verkäufer
-Damit Verkäufer "Verkäuferfunktionen" (Über Verlgeichspreise informieren, Listing, Altering, Statistiken) nutzen können, müssen diese siche als Verkäufer authentifizieren und eine entsprechende Authorisierung vorweisen.
+Damit Verkäufer "Verkäuferfunktionen" (Über Verlgeichspreise informieren, Listing, Altering, Statistiken) nutzen können, müssen dieser sich als Verkäufer authentifizieren und eine entsprechende Authorisierung vorweisen.
 Ggf. ist für eine Klassifizierung als Verkäufer ein weiterer Registrierungsmechanismus notwendig (Authorisierung).
 
 ### Admin
@@ -19,7 +19,7 @@ Produktverantwortliche müssen authentifiziert sein und authorisiert werden um e
   | Typ | Beschreibung|
   |-----|-------------|
   | Käufer | Privater Nutzer der Applikation, der nach Artikeln suchen möchte um diese in einen Preisvergleich zu bringen.| 
-  |Verkäufer|Verkäufer, dessen Produkte auf unserer Plattform gelistet sind und entsprechend angeboten werden.|  
+  |  Verkäufer|Verkäufer, dessen Produkte auf unserer Plattform gelistet sind und entsprechend angeboten werden.|  
   | Admin | Produktverantwortliche, die administrative Aufgaben in der Applikation übernehmen  (User Management, Dashboarding, Monitoring, Crawler, etc.)|
 
   
