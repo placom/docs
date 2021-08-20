@@ -93,7 +93,7 @@ labels:
 
   - name: epic
     # If including a `#`, make sure to wrap it with quotes!
-    color: 5319E7
+    color: 0E8A16
 
   - name: story
     # Provide a new name to rename an existing label
