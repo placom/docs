@@ -11,8 +11,7 @@ Es werden Daten von verschiedenen Quellen bezogen und ins System gespielt. Dazu 
   
 ## Vorbedingungen
 - System ist gestartet 
-- Datenbank erreichbar
-- I/O Services erreichbar
+- **[importapi](./importapi.md)** ist erreichbar
   
 ## Fachlicher Auslöser
 Damit die Applikation verwendet werden kann, benötigt diese Stammdaten auf denen die verschiedenen Usecases arbeiten. 
